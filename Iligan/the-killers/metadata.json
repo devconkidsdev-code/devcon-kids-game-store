@@ -1,0 +1,7 @@
+{
+  "name": "The Killers",
+  "description": "An action survival zombie shooter and slasher where you wield a katana and pistols with reinforced armor to save trapped victims and exterminate dangerous zombie strains across challenging levels.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Harvest",
+  "description": "A colorful, hardcore arcade farm game featuring a young Bukidnon farmer using a smart watering device to manage water wisely and grow healthy crops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Gardening",
+  "description": "A cozy farming game where you plant, water, nurture, and harvest crops to earn coins, level up, and unlock rare exotic seeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

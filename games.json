@@ -1,0 +1,499 @@
+[
+  {
+    "id": "aqua-harvest",
+    "name": "Aqua Harvest",
+    "tagline": "Water wisely. Grow a thriving farm.",
+    "description": "A colorful, hardcore arcade farm game featuring a young Bukidnon farmer using a smart watering device to manage water wisely and grow healthy crops.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/aqua-harvest/dist/",
+    "cover": "assets/covers/aqua-harvest.png",
+    "accent": "#22C55E",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "aquest-the-dark-forest",
+    "name": "AQUEST - The Dark Forest",
+    "tagline": "Flashlight on. Buckets full. Stay alive.",
+    "description": "A top-down horror survival quest where you play as a boy with a flashlight collecting water buckets in a dark forest while evading a mysterious creature.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/aquest---the-dark-forest/dist/",
+    "cover": "assets/covers/aquest-the-dark-forest.png",
+    "accent": "#1E293B",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "bropipe-bukidnon",
+    "name": "BROPIPE",
+    "tagline": "Fix the pipes. Save the water.",
+    "description": "Fix the broken pipes and help save the community's water in this fast-paced arcade game.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/bropipe/dist/",
+    "cover": "assets/covers/bropipe-bukidnon.png",
+    "accent": "#0EA5E9",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "bukidnon-interactive-illustrated-tourism-map",
+    "name": "Bukidnon Interactive Illustrated Tourism Map",
+    "tagline": "Explore Bukidnon's mountains, one tap at a time.",
+    "description": "An animated, colorful 3D-illustrated tourism map and travel guide showcasing Bukidnon's mountains, rivers, pineapples, cultural landmarks, and adventure destinations.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/bukidnon-interactive-illustrated-tourism-map/dist/",
+    "cover": "assets/covers/bukidnon-interactive-illustrated-tourism-map.png",
+    "accent": "#84CC16",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "bukidnon-tourism-platform",
+    "name": "Bukidnon Tourism Platform",
+    "tagline": "Discover, plan, and book your Bukidnon trip.",
+    "description": "Interactive discovery, animated map navigation, real-time operating status, weather awareness, and booking platform for Bukidnon province.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/bukidnon-tourism-platform/dist/",
+    "cover": "assets/covers/bukidnon-tourism-platform.png",
+    "accent": "#14B8A6",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "drop-it-the-great-water-panic",
+    "name": "DROP IT! — The Great Water Panic",
+    "tagline": "Guide Bloop through 100 levels of water-saving chaos.",
+    "description": "A cute comedy-adventure, puzzle, strategy, resource-management, and water-conservation game following Bloop the water-drop guardian in Splashville across 100 levels.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/drop-it-the-great-water-panic/dist/",
+    "cover": "assets/covers/drop-it-the-great-water-panic.png",
+    "accent": "#3B82F6",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "drop-quest",
+    "name": "Drop Quest",
+    "tagline": "Collect every drop before the drought wins.",
+    "description": "A 2D side-scrolling platformer game where a farmer collects water drops to save the drought-stricken farm before time runs out.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/drop-quest/dist/",
+    "cover": "assets/covers/drop-quest.png",
+    "accent": "#06B6D4",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "farmers-water-quest-wild-harvest",
+    "name": "Farmer's Water Quest: Wild Harvest",
+    "tagline": "30 maps. One thirsty farm. Survive the wild.",
+    "description": "A realistic top-down wilderness survival and farming simulation where you guide a farmer across 30 expansive maps to collect water from springs, dodge dangerous predators, and nourish dying plants with immersive dynamic soundscapes.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/farmers-water-quest-wild-harvest/dist/",
+    "cover": "assets/covers/farmers-water-quest-wild-harvest.png",
+    "accent": "#65A30D",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "fire-and-water-scatter-game",
+    "name": "Fire & Water Scatter Game",
+    "tagline": "Chase combo cascades of fire and water.",
+    "description": "An elemental scatter game featuring fire bombs, water diamonds, combo cascades, dynamic arcade and grid scatter modes with custom audio and particle physics.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/fire-and-water-scatter-game/dist/",
+    "cover": "assets/covers/fire-and-water-scatter-game.png",
+    "accent": "#F97316",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "gardening",
+    "name": "Gardening",
+    "tagline": "Plant, water, and grow a coin-earning garden.",
+    "description": "A cozy farming game where you plant, water, nurture, and harvest crops to earn coins, level up, and unlock rare exotic seeds.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/gardening/dist/",
+    "cover": "assets/covers/gardening.png",
+    "accent": "#22C55E",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "landscape-water-box-puzzle",
+    "name": "Landscape Water Box Puzzle",
+    "tagline": "Push, route, and nurture across 40 levels.",
+    "description": "A 40-level landscape puzzle game where you push water containers, manipulate terrain obstacles, route streams, and nurture wilting plants to life.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/landscape-water-box-puzzle/dist/",
+    "cover": "assets/covers/landscape-water-box-puzzle.png",
+    "accent": "#0D9488",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "lantaw",
+    "name": "Lantaw",
+    "tagline": "Discover, plan, and book across Bukidnon.",
+    "description": "Lantaw is Bukidnon's illustrated tourism discovery, live operational status, weather navigation, and owner-managed booking platform.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/lantaw/dist/",
+    "cover": "assets/covers/lantaw.png",
+    "accent": "#7A2FD4",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "maze-runner-the-thirst",
+    "name": "Maze Runner: The Thirst",
+    "tagline": "Flashlight shadows. Water physics. No time to stop.",
+    "description": "A juicy, atmospheric top-down arcade maze runner with dynamic flashlight shadows, synthesized Web Audio, water physics, and power-ups.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/maze-runner_-the-thirst/dist/",
+    "cover": "assets/covers/maze-runner-the-thirst.png",
+    "accent": "#2563EB",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "night-shift",
+    "name": "Night Shift",
+    "tagline": "Watch the cameras. Trust nothing.",
+    "description": "A realistic security camera horror game.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/night-shift/dist/",
+    "cover": "assets/covers/night-shift.png",
+    "accent": "#0F172A",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "thirsty-harvest",
+    "name": "Garden Farmer: 30 Level Harvest Quest",
+    "tagline": "Keep the crops watered across 30 levels.",
+    "description": "An action gardening game where you control a farmer watering thirsty crops across 30 escalating levels to keep them from shrinking and drying out.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/thirsty-harvest/dist/",
+    "cover": "assets/covers/thirsty-harvest.png",
+    "accent": "#84CC16",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "water-hero-save-every-drop",
+    "name": "Water Hero: Save Every Drop",
+    "tagline": "Dodge snakes. Fill the village tank.",
+    "description": "A colorful cartoon maze game raising awareness for community water scarcity where players navigate obstacles, avoid snakes, collect clean water drops, and fill the village water tank.",
+    "creators": [
+      "Bukidnon"
+    ],
+    "school": "DEVCON Bukidnon Chapter",
+    "playUrl": "Bukidnon/water-hero_-save-every-drop/dist/",
+    "cover": "assets/covers/water-hero-save-every-drop.png",
+    "accent": "#0EA5E9",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "alertify-incident-report-library",
+    "name": "Alertify Incident Report Library",
+    "tagline": "Monitor and prioritize citizen disaster reports.",
+    "description": "A modern, high-speed civic response dashboard for monitoring, reviewing, and prioritizing citizen-submitted disaster reports.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/alertify-incident-report-library/dist/",
+    "cover": "assets/covers/alertify-incident-report-library.png",
+    "accent": "#EF4444",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "bagyo",
+    "name": "Bagyo",
+    "tagline": "Grab supplies. Beat the rising flood. One minute.",
+    "description": "An intense flood escape survival game where Dexter must gather essential typhoon supplies and reach the rescue boat before 1 minute runs out as floodwaters rise.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/bagyo/dist/",
+    "cover": "assets/covers/bagyo.png",
+    "accent": "#0369A1",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "boat-race",
+    "name": "Boat Race",
+    "tagline": "Two players. Three rivers. One champion.",
+    "description": "A vibrant 2D competitive boat-racing game featuring two players, 3 distinct river paths, 5 lives system, and 2-round championship.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/boat-race/dist/",
+    "cover": "assets/covers/boat-race.png",
+    "accent": "#0EA5E9",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "calumpit-cbfmmp-flood-and-weather-monitor",
+    "name": "Calumpit CBFMMP Flood & Weather Monitor",
+    "tagline": "Real-time flood telemetry and evacuation guidance.",
+    "description": "Community-Based Flood Mitigation Management & Early Warning System for Calumpit, Bulacan, providing real-time river telemetry, dam spill alerts, high-tide tracking, evacuation routing, and AI-powered resident safety advisories.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/calumpit-cbfmmp-flood-and-weather-monitor/dist/",
+    "cover": "assets/covers/calumpit-cbfmmp-flood-and-weather-monitor.png",
+    "accent": "#0891B2",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "calumpit-flood-and-weather-hydro-met-system",
+    "name": "Calumpit Flood & Weather Hydro-Met System",
+    "tagline": "River confluence monitoring and alert dispatch.",
+    "description": "Real-time flood telemetry, dual-river confluence & tidal delta monitoring, SHINe observer portal, and automated multi-channel BDRRMC alert dispatch for Calumpit, Bulacan.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/calumpit-flood-and-weather-hydro-met-system/dist/",
+    "cover": "assets/covers/calumpit-flood-and-weather-hydro-met-system.png",
+    "accent": "#0284C7",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "earthquakes-survival",
+    "name": "Earthquakes Survival",
+    "tagline": "Rescue survivors before the timer runs out.",
+    "description": "An action-packed disaster rescue survival game. Drive your rescue vehicle through an earthquake-struck city, rescue stranded survivors, and transport them to the Safe Zone before the 3-minute timer expires.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/earthquakes-survival/dist/",
+    "cover": "assets/covers/earthquakes-survival.png",
+    "accent": "#B45309",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "eye-of-destruction-disaster-rescue-endless-runner",
+    "name": "Eye of Destruction — Disaster Rescue Endless Runner",
+    "tagline": "Drive. Dodge debris. Rescue survivors. Rebuild.",
+    "description": "3D action-adventure endless runner where you drive Rose's rescue van through disaster zones, dodge debris, rescue injured survivors, repair destroyed buildings, and restore the city.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/eye-of-destruction-disaster-rescue-endless-runner/dist/",
+    "cover": "assets/covers/eye-of-destruction-disaster-rescue-endless-runner.png",
+    "accent": "#DC2626",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "flowing-boat",
+    "name": "Flowing Boat",
+    "tagline": "Outrun the tidal wave down the rapids.",
+    "description": "An action-packed 2D cartoon river survival game where an old man escapes a chasing tidal wave on foot and down dangerous river rapids to reach the finish line.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/flowing-boat/dist/",
+    "cover": "assets/covers/flowing-boat.png",
+    "accent": "#0EA5E9",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "funrun-legend",
+    "name": "Funrun LeGEND",
+    "tagline": "Dodge rocks and logs. Reach the safe zone.",
+    "description": "An action-packed obstacle fun-run game featuring customizable boy and girl runners dodging rolling rocks and tree trunks to reach the safe zone.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/funrun-legend/dist/",
+    "cover": "assets/covers/funrun-legend.png",
+    "accent": "#F59E0B",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "mandulog-flood-alert",
+    "name": "InnoVision",
+    "tagline": "AI-powered LoRa flood forecasting and early warning.",
+    "description": "AI-Powered LoRa Flood Forecasting and Early Warning System.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/mandulog-flood-alert/dist/",
+    "cover": "assets/covers/mandulog-flood-alert.png",
+    "accent": "#0369A1",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "maze-game-iligan",
+    "name": "BROPIPE",
+    "tagline": "Repair the leaks. Save the water supply.",
+    "description": "A 2D browser maze game where a plumber repairs leaking water pipes to save the community water supply.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": "Iligan/maze-game/dist/",
+    "cover": "assets/covers/maze-game-iligan.png",
+    "accent": "#2563EB",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "the-killers",
+    "name": "The Killers",
+    "tagline": "Katana up. Save survivors. Clear every level.",
+    "description": "An action survival zombie shooter and slasher where you wield a katana and pistols with reinforced armor to save trapped victims and exterminate dangerous zombie strains across challenging levels.",
+    "creators": [
+      "Iligan"
+    ],
+    "school": "DEVCON Iligan Chapter",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#7F1D1D",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "fetch",
+    "name": "FETCH",
+    "tagline": "Carry the water. Beat the mountain.",
+    "description": "Carry the water from the mountain spring to the village before the bucket runs dry. A minimalist arcade mountain maze adventure built in Google AI Studio.",
+    "creators": [
+      "Classroom Team"
+    ],
+    "school": "DEVCON Kids",
+    "playUrl": "fetch/dist/",
+    "cover": "fetch/thumbnail.png",
+    "accent": "#3B82F6",
+    "createdAt": "2026-08-20"
+  },
+  {
+    "id": "pixel-garden",
+    "name": "Pixel Garden",
+    "tagline": "Grow a garden, one tap at a time.",
+    "description": "Plant seeds, water your crops, and watch a colorful pixel garden bloom. A chill creative game made by DEVCON Kids.",
+    "creators": [
+      "Mia",
+      "Leo"
+    ],
+    "school": "DEVCON Manila Chapter",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#22C55E",
+    "createdAt": "2026-08-18"
+  },
+  {
+    "id": "robo-race",
+    "name": "Robo Race",
+    "tagline": "Code your robot to the finish line.",
+    "description": "Guide a friendly robot through obstacle courses using simple commands. Race against the clock and unlock new tracks.",
+    "creators": [
+      "Sam",
+      "Aya",
+      "Ken"
+    ],
+    "school": "DEVCON Cebu Chapter",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#A855F7",
+    "createdAt": "2026-08-15"
+  },
+  {
+    "id": "space-quiz",
+    "name": "Space Quiz Blast",
+    "tagline": "Answer fast. Explore the stars.",
+    "description": "A fast-paced quiz adventure through the solar system. Pick the right answers to fuel your rocket and reach new planets.",
+    "creators": [
+      "Nina"
+    ],
+    "school": "Saint Mary's Academy",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#0EA5E9",
+    "createdAt": "2026-08-12"
+  },
+  {
+    "id": "eco-heroes",
+    "name": "Eco Heroes",
+    "tagline": "Clean the city. Save the day.",
+    "description": "Help eco-heroes recycle trash, plant trees, and keep the neighborhood green. Learn sustainability while having fun.",
+    "creators": [
+      "Jonas",
+      "Priya"
+    ],
+    "school": "DEVCON Davao Chapter",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#84CC16",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "math-maze",
+    "name": "Math Maze",
+    "tagline": "Solve puzzles to escape the maze.",
+    "description": "Find your way out of a colorful maze by solving quick math challenges. Every correct answer opens a new path.",
+    "creators": [
+      "Carlos",
+      "Elena"
+    ],
+    "school": "Riverside Elementary",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#F59E0B",
+    "createdAt": "2026-08-05"
+  },
+  {
+    "id": "story-spark",
+    "name": "Story Spark",
+    "tagline": "Choose your adventure.",
+    "description": "Build your own story by picking what happens next. Meet quirky characters and unlock surprise endings.",
+    "creators": [
+      "Hana",
+      "Omar",
+      "Tess"
+    ],
+    "school": "DEVCON Kids",
+    "playUrl": null,
+    "cover": null,
+    "accent": "#EC4899",
+    "createdAt": "2026-08-01"
+  }
+]

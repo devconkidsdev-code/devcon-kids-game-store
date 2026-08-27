@@ -1,0 +1,501 @@
+/* DEVCON Kids Game Store */
+
+:root {
+  --green: #62b816;
+  --green-dark: #4f9612;
+  --purple: #7a2fd4;
+  --purple-soft: #9b5de8;
+  --ink: #2d2a32;
+  --muted: #6b6570;
+  --line: #ece8f0;
+  --bg: #faf9fc;
+  --white: #ffffff;
+  --shadow: 0 8px 24px rgba(74, 40, 120, 0.08);
+  --radius: 20px;
+  --pill: 999px;
+  --font: "Outfit", "Poppins", system-ui, -apple-system, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font);
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+/* Layout */
+
+.container {
+  width: min(1100px, calc(100% - 2rem));
+  margin-inline: auto;
+}
+
+/* Header */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(250, 249, 252, 0.92);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 0;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.brand img {
+  height: 40px;
+  width: auto;
+}
+
+.brand-mark {
+  display: none;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.nav-links a {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.nav-links a:hover {
+  color: var(--purple);
+}
+
+/* Hero */
+
+.hero {
+  margin: 1.5rem auto 1.75rem;
+  padding: 2rem 1.5rem;
+  border-radius: 28px;
+  background:
+    radial-gradient(circle at 85% 20%, rgba(255, 255, 255, 0.22), transparent 40%),
+    linear-gradient(135deg, var(--purple) 0%, #5b21b6 55%, #4c1d95 100%);
+  color: var(--white);
+  box-shadow: var(--shadow);
+}
+
+.hero h1 {
+  margin: 0 0 0.4rem;
+  font-size: clamp(1.75rem, 4vw, 2.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.hero p {
+  margin: 0;
+  max-width: 38rem;
+  opacity: 0.95;
+  font-size: 1.05rem;
+}
+
+/* Toolbar */
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.85rem;
+  margin-bottom: 1.25rem;
+}
+
+.toolbar h2 {
+  margin: 0;
+  color: var(--green);
+  font-size: 1.35rem;
+  font-weight: 800;
+}
+
+.search {
+  position: relative;
+  flex: 1 1 220px;
+  max-width: 320px;
+}
+
+.search input {
+  width: 100%;
+  padding: 0.7rem 1rem 0.7rem 2.5rem;
+  border: 1px solid var(--line);
+  border-radius: var(--pill);
+  background: var(--white);
+  color: var(--ink);
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search input:focus {
+  border-color: var(--purple-soft);
+  box-shadow: 0 0 0 3px rgba(122, 47, 212, 0.12);
+}
+
+.search::before {
+  content: "";
+  position: absolute;
+  left: 0.95rem;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  transform: translateY(-50%);
+  border: 2px solid var(--muted);
+  border-radius: 50%;
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.search::after {
+  content: "";
+  position: absolute;
+  left: 1.85rem;
+  top: calc(50% + 5px);
+  width: 7px;
+  height: 2px;
+  background: var(--muted);
+  transform: rotate(45deg);
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+/* Grid / Cards */
+
+.game-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  padding-bottom: 3rem;
+}
+
+@media (min-width: 560px) {
+  .game-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .game-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+.game-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.game-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(74, 40, 120, 0.12);
+}
+
+.game-card:focus-visible {
+  outline: 3px solid var(--purple-soft);
+  outline-offset: 2px;
+}
+
+.card-cover {
+  aspect-ratio: 16 / 10;
+  display: grid;
+  place-items: center;
+  color: var(--white);
+  font-size: 2.75rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  background-size: cover;
+  background-position: center;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.1rem 1.15rem;
+  flex: 1;
+}
+
+.card-body h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.card-tagline {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.card-meta {
+  margin-top: auto;
+  padding-top: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--pill);
+  background: rgba(98, 184, 22, 0.12);
+  color: var(--green-dark);
+  font-weight: 700;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.badge.soon {
+  background: rgba(122, 47, 212, 0.1);
+  color: var(--purple);
+}
+
+/* States */
+
+.state {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--muted);
+}
+
+.state.error {
+  color: #b42318;
+}
+
+/* Detail page */
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 1.25rem 0 0.5rem;
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.back-link:hover {
+  color: var(--purple);
+}
+
+.detail {
+  display: grid;
+  gap: 1.5rem;
+  padding: 0.75rem 0 3rem;
+}
+
+@media (min-width: 760px) {
+  .detail {
+    grid-template-columns: minmax(240px, 340px) 1fr;
+    align-items: start;
+    gap: 2rem;
+  }
+}
+
+.detail-cover {
+  aspect-ratio: 1;
+  border-radius: 28px;
+  display: grid;
+  place-items: center;
+  color: var(--white);
+  font-size: 5rem;
+  font-weight: 800;
+  box-shadow: var(--shadow);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.detail-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.detail-main h1 {
+  margin: 0 0 0.35rem;
+  color: var(--green);
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.detail-tagline {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+  font-size: 1.1rem;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-height: 48px;
+  padding: 0.75rem 1.6rem;
+  border: 0;
+  border-radius: var(--pill);
+  background: var(--green);
+  color: var(--white);
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.btn:hover {
+  background: var(--green-dark);
+  transform: translateY(-1px);
+}
+
+.btn:focus-visible {
+  outline: 3px solid rgba(98, 184, 22, 0.35);
+  outline-offset: 2px;
+}
+
+.btn[aria-disabled="true"],
+.btn:disabled {
+  background: #c9c4d0;
+  color: #f7f5fa;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.detail-section {
+  margin-top: 1.5rem;
+}
+
+.detail-section h2 {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--purple);
+}
+
+.detail-section p {
+  margin: 0;
+  color: var(--ink);
+  font-size: 1.02rem;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 0.8rem;
+  border-radius: var(--pill);
+  background: rgba(122, 47, 212, 0.08);
+  color: var(--purple);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.meta-row strong {
+  display: block;
+  color: var(--ink);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+}
+
+.not-found {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.not-found h1 {
+  margin: 0 0 0.5rem;
+  color: var(--green);
+}
+
+.not-found p {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1.25rem 0 2rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  text-align: center;
+}

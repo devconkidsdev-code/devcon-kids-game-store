@@ -1,0 +1,6 @@
+{
+  "name": "FETCH",
+  "description": "Carry the water. Beat the mountain. A minimalist arcade mountain maze adventure game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

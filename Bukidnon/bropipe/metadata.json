@@ -1,0 +1,6 @@
+{
+  "name": "BROPIPE",
+  "description": "Fix the broken pipes and help save the community's water in this fast-paced arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

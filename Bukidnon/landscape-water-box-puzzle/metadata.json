@@ -1,0 +1,6 @@
+{
+  "name": "Landscape Water Box Puzzle",
+  "description": "A 40-level landscape puzzle game where you push water containers, manipulate terrain obstacles, route streams, and nurture wilting plants to life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

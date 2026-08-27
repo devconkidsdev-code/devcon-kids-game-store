@@ -1,0 +1,6 @@
+{
+  "name": "Maze Runner: The Thirst",
+  "description": "A juicy, atmospheric top-down arcade maze runner with dynamic flashlight shadows, synthesized Web Audio, water physics, and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

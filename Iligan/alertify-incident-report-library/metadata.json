@@ -1,0 +1,6 @@
+{
+  "name": "Alertify Incident Report Library",
+  "description": "A modern, high-speed civic response dashboard for monitoring, reviewing, and prioritizing citizen-submitted disaster reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

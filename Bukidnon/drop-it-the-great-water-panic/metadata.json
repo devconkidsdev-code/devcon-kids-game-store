@@ -1,0 +1,6 @@
+{
+  "name": "DROP IT! — The Great Water Panic",
+  "description": "A cute comedy-adventure, puzzle, strategy, resource-management, and water-conservation game following Bloop the water-drop guardian in Splashville across 100 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

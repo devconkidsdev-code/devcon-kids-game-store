@@ -1,0 +1,6 @@
+{
+  "name": "Calumpit CBFMMP Flood & Weather Monitor",
+  "description": "Community-Based Flood Mitigation Management & Early Warning System for Calumpit, Bulacan, providing real-time river telemetry, dam spill alerts, high-tide tracking, evacuation routing, and AI-powered resident safety advisories.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

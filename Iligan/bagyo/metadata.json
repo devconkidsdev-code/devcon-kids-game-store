@@ -1,0 +1,6 @@
+{
+  "name": "bagyo",
+  "description": "An intense flood escape survival game where Dexter must gather essential typhoon supplies and reach the rescue boat before 1 minute runs out as floodwaters rise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

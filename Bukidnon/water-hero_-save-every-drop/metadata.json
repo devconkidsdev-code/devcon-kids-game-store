@@ -1,0 +1,6 @@
+{
+  "name": "Water Hero: Save Every Drop",
+  "description": "A colorful cartoon maze game raising awareness for community water scarcity where players navigate obstacles, avoid snakes, collect clean water drops, and fill the village water tank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

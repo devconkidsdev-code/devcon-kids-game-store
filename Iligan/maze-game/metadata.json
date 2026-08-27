@@ -1,0 +1,6 @@
+{
+  "name": "BROPIPE",
+  "description": "A 2D browser maze game where a plumber repairs leaking water pipes to save the community water supply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

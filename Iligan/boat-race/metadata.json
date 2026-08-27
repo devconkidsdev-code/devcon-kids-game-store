@@ -1,0 +1,6 @@
+{
+  "name": "Boat Race",
+  "description": "A vibrant 2D competitive boat-racing game featuring two players, 3 distinct river paths, 5 lives system, and 2-round championship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

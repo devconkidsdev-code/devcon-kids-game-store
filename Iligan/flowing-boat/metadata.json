@@ -1,0 +1,6 @@
+{
+  "name": "Flowing Boat",
+  "description": "An action-packed 2D cartoon river survival game where an old man escapes a chasing tidal wave on foot and down dangerous river rapids to reach the finish line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

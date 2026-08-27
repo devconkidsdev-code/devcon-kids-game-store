@@ -1,0 +1,6 @@
+{
+  "name": "Earthquakes Survival",
+  "description": "An action-packed disaster rescue survival game. Drive your rescue vehicle through an earthquake-struck city, rescue stranded survivors, and transport them to the Safe Zone before the 3-minute timer expires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

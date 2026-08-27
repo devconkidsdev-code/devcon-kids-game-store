@@ -1,0 +1,6 @@
+{
+  "name": "Funrun LeGEND",
+  "description": "An action-packed obstacle fun-run game featuring customizable boy and girl runners dodging rolling rocks and tree trunks to reach the safe zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

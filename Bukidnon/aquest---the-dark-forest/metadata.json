@@ -1,0 +1,6 @@
+{
+  "name": "AQUEST - The Dark Forest",
+  "description": "A top-down horror survival quest where you play as a boy with a flashlight collecting water buckets in a dark forest while evading a mysterious creature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Fire & Water Scatter Game",
+  "description": "An elemental scatter game featuring fire bombs, water diamonds, combo cascades, dynamic arcade and grid scatter modes with custom audio and particle physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

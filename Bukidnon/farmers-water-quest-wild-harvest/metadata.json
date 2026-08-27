@@ -1,0 +1,6 @@
+{
+  "name": "Farmer's Water Quest: Wild Harvest",
+  "description": "A realistic top-down wilderness survival and farming simulation where you guide a farmer across 30 expansive maps to collect water from springs, dodge dangerous predators, and nourish dying plants with immersive dynamic soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

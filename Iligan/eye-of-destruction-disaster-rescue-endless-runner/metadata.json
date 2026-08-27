@@ -1,0 +1,6 @@
+{
+  "name": "Eye of Destruction — Disaster Rescue Endless Runner",
+  "description": "3D action-adventure endless runner where you drive Rose's rescue van through disaster zones, dodge debris, rescue injured survivors, repair destroyed buildings, and restore the city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

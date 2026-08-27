@@ -1,0 +1,6 @@
+{
+  "name": "Garden Farmer: 30 Level Harvest Quest",
+  "description": "An action gardening game where you control a farmer watering thirsty crops across 30 escalating levels to keep them from shrinking and drying out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Bukidnon Interactive Illustrated Tourism Map",
+  "description": "An animated, colorful 3D-illustrated tourism map and travel guide showcasing Bukidnon's mountains, rivers, pineapples, cultural landmarks, and adventure destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

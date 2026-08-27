@@ -1,0 +1,6 @@
+{
+  "name": "Drop Quest",
+  "description": "A 2D side-scrolling platformer game where a farmer collects water drops to save the drought-stricken farm before time runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

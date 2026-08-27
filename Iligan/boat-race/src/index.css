@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Montserrat', 'Outfit', system-ui, -apple-system, sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+}
+
+/* 3D Chunky Arcade Button Animations */
+.btn-arcade-emerald {
+  border-bottom: 6px solid #047857;
+  transition: all 0.1s ease;
+}
+.btn-arcade-emerald:active {
+  border-bottom-width: 0px;
+  transform: translateY(6px);
+}
+
+.btn-arcade-red {
+  border-bottom: 6px solid #991b1b;
+  transition: all 0.1s ease;
+}
+.btn-arcade-red:active {
+  border-bottom-width: 0px;
+  transform: translateY(6px);
+}
+
+.btn-arcade-sky {
+  border-bottom: 5px solid #075985;
+  transition: all 0.1s ease;
+}
+.btn-arcade-sky:active {
+  border-bottom-width: 0px;
+  transform: translateY(5px);
+}
+
+.btn-arcade-yellow {
+  border-bottom: 6px solid #ca8a04;
+  transition: all 0.1s ease;
+}
+.btn-arcade-yellow:active {
+  border-bottom-width: 0px;
+  transform: translateY(6px);
+}

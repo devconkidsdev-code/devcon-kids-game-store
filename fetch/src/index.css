@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #FDFBF7;
+    color: #2D3748;
+  }
+}
+
+.font-display {
+  font-family: 'Cabinet Grotesk', 'Outfit', sans-serif;
+}
+
+.font-mono-num {
+  font-family: 'Space Mono', monospace;
+}
+
+@keyframes waterDrip {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 0.9;
+  }
+  80% {
+    transform: translateY(18px) scale(0.8);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(22px) scale(1.4);
+    opacity: 0;
+  }
+}
+
+.animate-water-drip {
+  animation: waterDrip 1.2s infinite ease-in;
+}
+
+@keyframes subtleFloat {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+.animate-subtle-float {
+  animation: subtleFloat 3s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { opacity: 1; filter: drop-shadow(0 0 8px rgba(239, 68, 68, 0.6)); }
+  50% { opacity: 0.6; filter: drop-shadow(0 0 2px rgba(239, 68, 68, 0.2)); }
+}
+
+.animate-danger-pulse {
+  animation: pulseGlow 0.8s ease-in-out infinite;
+}
+
+@keyframes waterGlow {
+  0%, 100% { box-shadow: 0 0 8px rgba(0, 191, 255, 0.6); }
+  50% { box-shadow: 0 0 2px rgba(0, 191, 255, 0.3); }
+}
+
+.water-glow {
+  animation: waterGlow 2s ease-in-out infinite;
+}
+
