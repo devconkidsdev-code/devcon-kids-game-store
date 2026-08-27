@@ -1,6 +1,0 @@
-{
-  "name": "Calumpit Flood & Weather Hydro-Met System",
-  "description": "Real-time flood telemetry, dual-river confluence & tidal delta monitoring, SHINe observer portal, and automated multi-channel BDRRMC alert dispatch for Calumpit, Bulacan.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

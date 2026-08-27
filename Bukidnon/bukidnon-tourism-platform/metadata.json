@@ -1,6 +1,0 @@
-{
-  "name": "Bukidnon Tourism Platform",
-  "description": "Interactive discovery, animated map navigation, real-time operating status, weather awareness, and booking platform for Bukidnon province.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

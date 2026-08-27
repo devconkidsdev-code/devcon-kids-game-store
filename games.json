@@ -42,34 +42,6 @@
     "createdAt": "2026-08-27"
   },
   {
-    "id": "bukidnon-interactive-illustrated-tourism-map",
-    "name": "Bukidnon Interactive Illustrated Tourism Map",
-    "tagline": "Explore Bukidnon's mountains, one tap at a time.",
-    "description": "An animated, colorful 3D-illustrated tourism map and travel guide showcasing Bukidnon's mountains, rivers, pineapples, cultural landmarks, and adventure destinations.",
-    "creators": [
-      "Bukidnon"
-    ],
-    "school": "Students of Lurugan National Highschool",
-    "playUrl": "Bukidnon/bukidnon-interactive-illustrated-tourism-map/dist/",
-    "cover": "assets/covers/bukidnon-interactive-illustrated-tourism-map.png",
-    "accent": "#84CC16",
-    "createdAt": "2026-08-27"
-  },
-  {
-    "id": "bukidnon-tourism-platform",
-    "name": "Bukidnon Tourism Platform",
-    "tagline": "Discover, plan, and book your Bukidnon trip.",
-    "description": "Interactive discovery, animated map navigation, real-time operating status, weather awareness, and booking platform for Bukidnon province.",
-    "creators": [
-      "Bukidnon"
-    ],
-    "school": "Students of Lurugan National Highschool",
-    "playUrl": "Bukidnon/bukidnon-tourism-platform/dist/",
-    "cover": "assets/covers/bukidnon-tourism-platform.png",
-    "accent": "#14B8A6",
-    "createdAt": "2026-08-27"
-  },
-  {
     "id": "drop-it-the-great-water-panic",
     "name": "DROP IT! — The Great Water Panic",
     "tagline": "Guide Bloop through 100 levels of water-saving chaos.",
@@ -154,20 +126,6 @@
     "createdAt": "2026-08-27"
   },
   {
-    "id": "lantaw",
-    "name": "Lantaw",
-    "tagline": "Discover, plan, and book across Bukidnon.",
-    "description": "Lantaw is Bukidnon's illustrated tourism discovery, live operational status, weather navigation, and owner-managed booking platform.",
-    "creators": [
-      "Bukidnon"
-    ],
-    "school": "Students of Lurugan National Highschool",
-    "playUrl": "Bukidnon/lantaw/dist/",
-    "cover": "assets/covers/lantaw.png",
-    "accent": "#7A2FD4",
-    "createdAt": "2026-08-27"
-  },
-  {
     "id": "maze-runner-the-thirst",
     "name": "Maze Runner: The Thirst",
     "tagline": "Flashlight shadows. Water physics. No time to stop.",
@@ -224,20 +182,6 @@
     "createdAt": "2026-08-27"
   },
   {
-    "id": "alertify-incident-report-library",
-    "name": "Alertify Incident Report Library",
-    "tagline": "Monitor and prioritize citizen disaster reports.",
-    "description": "A modern, high-speed civic response dashboard for monitoring, reviewing, and prioritizing citizen-submitted disaster reports.",
-    "creators": [
-      "Iligan"
-    ],
-    "school": "Students of Tabunan Elementary School Iligan",
-    "playUrl": "Iligan/alertify-incident-report-library/dist/",
-    "cover": "assets/covers/alertify-incident-report-library.png",
-    "accent": "#EF4444",
-    "createdAt": "2026-08-27"
-  },
-  {
     "id": "bagyo",
     "name": "Bagyo",
     "tagline": "Grab supplies. Beat the rising flood. One minute.",
@@ -263,34 +207,6 @@
     "playUrl": "Iligan/boat-race/dist/",
     "cover": "assets/covers/boat-race.png",
     "accent": "#0EA5E9",
-    "createdAt": "2026-08-27"
-  },
-  {
-    "id": "calumpit-cbfmmp-flood-and-weather-monitor",
-    "name": "Calumpit CBFMMP Flood & Weather Monitor",
-    "tagline": "Real-time flood telemetry and evacuation guidance.",
-    "description": "Community-Based Flood Mitigation Management & Early Warning System for Calumpit, Bulacan, providing real-time river telemetry, dam spill alerts, high-tide tracking, evacuation routing, and AI-powered resident safety advisories.",
-    "creators": [
-      "Iligan"
-    ],
-    "school": "Students of Tabunan Elementary School Iligan",
-    "playUrl": "Iligan/calumpit-cbfmmp-flood-and-weather-monitor/dist/",
-    "cover": "assets/covers/calumpit-cbfmmp-flood-and-weather-monitor.png",
-    "accent": "#0891B2",
-    "createdAt": "2026-08-27"
-  },
-  {
-    "id": "calumpit-flood-and-weather-hydro-met-system",
-    "name": "Calumpit Flood & Weather Hydro-Met System",
-    "tagline": "River confluence monitoring and alert dispatch.",
-    "description": "Real-time flood telemetry, dual-river confluence & tidal delta monitoring, SHINe observer portal, and automated multi-channel BDRRMC alert dispatch for Calumpit, Bulacan.",
-    "creators": [
-      "Iligan"
-    ],
-    "school": "Students of Tabunan Elementary School Iligan",
-    "playUrl": "Iligan/calumpit-flood-and-weather-hydro-met-system/dist/",
-    "cover": "assets/covers/calumpit-flood-and-weather-hydro-met-system.png",
-    "accent": "#0284C7",
     "createdAt": "2026-08-27"
   },
   {
@@ -347,20 +263,6 @@
     "playUrl": "Iligan/funrun-legend/dist/",
     "cover": "assets/covers/funrun-legend.png",
     "accent": "#F59E0B",
-    "createdAt": "2026-08-27"
-  },
-  {
-    "id": "mandulog-flood-alert",
-    "name": "InnoVision",
-    "tagline": "AI-powered LoRa flood forecasting and early warning.",
-    "description": "AI-Powered LoRa Flood Forecasting and Early Warning System.",
-    "creators": [
-      "Iligan"
-    ],
-    "school": "Students of Tabunan Elementary School Iligan",
-    "playUrl": "Iligan/mandulog-flood-alert/dist/",
-    "cover": "assets/covers/mandulog-flood-alert.png",
-    "accent": "#0369A1",
     "createdAt": "2026-08-27"
   },
   {

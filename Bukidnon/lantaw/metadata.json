@@ -1,6 +1,0 @@
-{
-  "name": "Lantaw",
-  "description": "Lantaw is Bukidnon's illustrated tourism discovery, live operational status, weather navigation, and owner-managed booking platform.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

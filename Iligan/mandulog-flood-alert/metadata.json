@@ -1,6 +1,0 @@
-{
-  "name": "InnoVision",
-  "description": "AI-Powered LoRa Flood Forecasting and Early Warning System.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
