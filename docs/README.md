@@ -35,6 +35,12 @@ npm run build
 
 This writes a playable build to `my-game/dist/` that works under `/devconkids/my-game/dist/`.
 
+**Important for deployment:** the AI Studio export includes its own `my-game/.gitignore`, which excludes `dist/`. That's normally correct, but this project's live deployment (Vercel) serves the committed `dist/` folders directly with no build step — so after every rebuild, force-add the new output or it silently never reaches the deployed site:
+
+```bash
+git add -f my-game/dist
+```
+
 ## 3. Register it in `games.json`
 
 Add an entry at the top of [`games.json`](../games.json) (newest first is fine — the store sorts by `createdAt`):
